@@ -1,4 +1,4 @@
-package com.jain.ankitha;
+package com.simplilearn.workshop.resources;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.stereotype.Controller;
